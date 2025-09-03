@@ -1,0 +1,17 @@
+{
+    "certificates": [
+        {
+            "id": 1,
+            "name": "What is Compliance?",
+            "organization": "Coursera",
+            "expiry_date": "2014-05-14"
+        },
+        {
+            "id": 2,
+            "name": "AI Ethics",
+            "organization": "DataCamp",
+            "expiry_date": "2014-12-04"
+        }
+    ],
+    "owner_name": "SCWB Belgrave"
+}
